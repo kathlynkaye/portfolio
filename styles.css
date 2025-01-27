@@ -9,7 +9,7 @@ body {
 header {
     background: dimgray;
     color: beige;
-    padding: 20px;
+    padding: 16px;
     display: flex;
     justify-content: space-between;
     font-weight: bold;
@@ -21,7 +21,7 @@ header nav ul {
 }
 
 header nav ul li {
-    margin: 0 15px;
+    margin: 0 10px;
 }
 
 header nav ul li a {
