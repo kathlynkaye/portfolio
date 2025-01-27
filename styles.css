@@ -11,10 +11,14 @@ body {
 header {
     background: dimgray;
     color: beige;
-    padding: 1rem;
+    padding: 20px;
     text-align: center;
     display: flex;
     justify-content: space-between;
+}
+
+header p {
+    font-size: 26px;
 }
 
 header nav ul {
